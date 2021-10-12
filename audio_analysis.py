@@ -2,7 +2,6 @@
 
 from scipy.io.wavfile import read
 from scipy.fft import fft, fftfreq
-from pylab import ceil
 import numpy as np
 import matplotlib.pyplot as plt
 

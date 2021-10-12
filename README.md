@@ -8,6 +8,7 @@
 - NumPy `1.20.3`
 - Matplotlib `3.3.4`
 - SciPy `1.7.1`
+- PyAudio `0.2.11`
 
 ## Usage
 
@@ -23,7 +24,7 @@ python3 main.py audio_length filename
 
 Attension:
 
-- `audio_length` should be an interger `<= 1`
+- `audio_length` should be an interger `>= 1`
 - `filename` should not with the `.wav` file format
 
 For example:
