@@ -32,6 +32,14 @@ For example:
 python3 main.py 3 test_audio  # record a 3-second-long named test_audio.wav file
 ```
 
+## Effection
+
+The following example shows the output of the time and frequency domain of a recording file of "dou" sound.
+
+![time](/images/Figure_1.png)
+
+![freq](/images/Figure_2.png)
+
 ## References
 
 - [Fourier Transforms With scipy.fft: Python Signal Processing](https://realpython.com/python-scipy-fft/)
